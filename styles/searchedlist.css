@@ -1,0 +1,53 @@
+#vcondiv{
+    width: 100%;
+    height: 100%;
+    padding: 0 25px;
+    /* border: 1px solid red; */
+}
+.lvideodiv{
+    cursor: pointer;
+    padding: 20px 0;
+    display: flex;
+
+}
+.thumdiv{
+    height: 202px;
+    /* border: 1px solid red; */
+
+}
+.lvthum{
+    width:360px;
+    height: 100%;
+}
+.slcondiv{
+    margin-left: 20px;
+}
+
+.slcondiv .sltitle{
+    font-size: 18px;
+    /* font-weight: 500; */
+    margin-bottom: 20px;
+}
+.chdiv{
+    display: flex ;
+    gap:5px;
+    /* border: 1px solid blue; */
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+.chdiv>img{
+    border-radius: 100%;
+}
+.chdiv>p{
+    font-size: 12px;
+}
+.slcondiv .sldes{
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+    height: 20px;
+    font-size: 12px;
+    margin-bottom: 20px;
+
+}

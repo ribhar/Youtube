@@ -1,0 +1,112 @@
+#vcondiv{
+    /* padding:  25px; */
+    margin : auto;
+    /* border: 1px solid blue; */
+    width: auto;
+    height:100vh;
+    overflow-y: scroll;
+    overflow: overlay;
+    display: flex;
+    /* gap: 25px; */
+    justify-content: center;
+}
+#primary{
+    margin-left: 25px;
+    padding: 24px 24px 0 0;
+    /* border: 1px solid red; */
+    width: 640px;
+}
+#vplayer{
+    cursor: pointer;
+    width: 640px;
+    /* border: 1px solid blue; */
+    height: 360px;
+}
+.videooption{
+    cursor: pointer;
+    padding: 20px 0 8px;
+    border-bottom: 1px solid #d3d3d3;;
+}
+#vtitle{
+    font-weight: 400;
+    font-size: 18px;
+}
+.voptbtn{
+    border: none;
+    background-color: white;
+}
+#menu{
+    padding: 20px 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+#menu>a{
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+#secondary{
+    padding: 24px 24px 0 0;
+    /* border: 1px solid red; */
+    width: 402px;
+}
+
+
+.lvideodiv{
+    cursor: pointer;
+    /* border: 1px solid blue; */
+
+    width: 100%;
+    padding: 0 0 20px 0;
+    display: flex;
+
+}
+.thumdiv{
+    height: 100px;
+    /* border: 1px solid red; */
+
+}
+.lvthum{
+    width:180px;
+    height: 100%;
+}
+.slcondiv{
+    width: 215px;
+    margin-left: 5px;
+    /* border: 1px solid red; */
+}
+
+.slcondiv .sltitle{
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+    height: 20px;
+    font-size: 14px;
+    /* font-weight: 500; */
+    margin-bottom: 5px;
+}
+.chdiv{
+    display: flex ;
+    gap:5px;
+    /* border: 1px solid blue; */
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+.chdiv>img{
+    border-radius: 100%;
+}
+.chdiv>p{
+    font-size: 10px;
+}
+.slcondiv .sldes{
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+    height: 20px;
+    font-size: 10px;
+    margin-bottom: 5px;
+
+}
