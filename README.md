@@ -9,8 +9,6 @@ YouTube is an American online video sharing and social media platform. A web app
  <h2>Landing Page</h2>
     <img src="https://github.com/ribhar/Youtube/blob/main/assets/land.png" />
     <h2>Behavioral Search Suggestions</h2>
-     <img src="" />
-  <h2>Sign-up/Sign-in Page</h2>
     <img src="https://github.com/ribhar/Youtube/blob/main/assets/searched.PNG" />
        <h2>Search Result</h2>
     <img src="https://github.com/ribhar/Youtube/blob/main/assets/list.PNG" />
