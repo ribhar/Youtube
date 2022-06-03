@@ -3,7 +3,7 @@ YouTube is an American online video sharing and social media platform. A web app
 
 ### Live deployed URL: https://youtube-i.netlify.app/
 
-### Blog Post: https://www.linkedin.com/in/ribhar/details/projects/
+### Blog URL: https://medium.com/@ribhar/project-youtube-84cb1048082
 
 
  <h2>Landing Page</h2>
